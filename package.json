@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-template",
+  "version": "0.0.1",
+  "description": "Initial workflow and build tool-chain for an AngularJS app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Eric Buess",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
